@@ -1,0 +1,90 @@
+{
+  "branding": {
+    "body_font": "DM Sans",
+    "heading_font": "Manrope",
+    "primary_color": "#145a3b",
+    "accent_color": "#e8c45c"
+  },
+  "fundraising": {
+    "gofundme_url": "",
+    "half_marathon_url": ""
+  },
+  "contact": {
+    "h1_1": "Let’s grow something lasting together.",
+    "h2_1": "Ways to work together",
+    "h3_1": "Interested in helping?",
+    "p_1": "Connect with VFRIFAL about sustainable agriculture, water access, fundraising or responsible enterprise partnerships.",
+    "p_2": "We welcome conversations with farming communities, agricultural specialists, water and sanitation organisations, marathon fundraisers, potential partners and volunteers.",
+    "p_4": "Official email, phone number and social media accounts will be added once confirmed.",
+    "p_5": "This prototype does not transmit enquiries. Please provide your approved organisational email address before activating a contact form.",
+    "p_6": "Tell us whether you want to support farming, help raise funds for clean water, share field stories or discuss an enterprise partnership.",
+    "p_7": "When the official contact details are confirmed, this section will include a working enquiry form and contact buttons."
+  },
+  "index": {
+    "h2_1": "From the field to the family.",
+    "h2_2": "Food self-sufficiency is a foundation for healthier lives.",
+    "h2_3": "Clean water should not be out of reach.",
+    "h3_1": "Sustainable farming",
+    "h3_2": "Safe drinking water",
+    "h3_3": "Enterprise & partnerships",
+    "p_1": "Virtual Farming Relief Initiatives for Africa (VFRIFAL) is working towards food self-sufficiency, healthier communities and lasting opportunity—starting in Sierra Leone.",
+    "p_2": "Our constitution puts environmentally sustainable agriculture at the centre of our work, alongside safe water, sanitation, hygiene, educational support and community-led research.",
+    "p_3": "Support locally rooted farming initiatives, staple food production and opportunities for rural communities, women and young people.",
+    "p_4": "Help farming and mining-affected communities access safer water, with a focus on practical local solutions and public health.",
+    "p_5": "Develop proposed income-generating activities and partnerships that can strengthen farming and support long-term sustainability.",
+    "p_6": "VFRIFAL’s vision is to contribute towards Africa’s food self-sufficiency and security for improved economic and health outcomes. We begin with communities, listening to their priorities and working towards practical, sustainable change.",
+    "p_7": "We are developing a fundraising initiative for safe drinking water, particularly in communities affected by mining-related water pollution. Half-marathon challenges and a future GoFundMe campaign will help bring supporters together."
+  },
+  "farming": {
+    "h1_1": "Farming for food security and community resilience.",
+    "h2_1": "Starting with staple foods.",
+    "h2_2": "Farming with communities, not just for them.",
+    "h3_1": "Local partnerships",
+    "h3_2": "Responsible production",
+    "h3_3": "Field evidence",
+    "p_1": "Building environmentally sustainable farming initiatives in Sierra Leone, with the ambition to support communities across Africa.",
+    "p_2": "Our constitution outlines a pilot ambition to secure farming land and develop rice farming, supported by equipment, local partnerships and field coordination. These are founding objectives—not claims that every activity has already been completed.",
+    "p_3": "Engage farmers, community leaders, relevant ministries and technical partners.",
+    "p_4": "Work towards closing the gap between actual and attainable agricultural yields while reducing environmental impacts.",
+    "p_5": "Document activities, progress and lessons through photographs, videos and updates in our field journal."
+  },
+  "water": {
+    "h1_1": "Safe drinking water for healthier communities.",
+    "h2_1": "Water is essential to the future we want to grow.",
+    "h2_2": "Run for water. Give for change.",
+    "h3_1": "Half-marathon challenges",
+    "h3_2": "GoFundMe campaign",
+    "h3_3": "Community partners",
+    "p_1": "Supporting access to safe water, sanitation and hygiene, with particular concern for communities whose water sources are affected by mining.",
+    "p_2": "VFRIFAL’s constitution includes preventative public-health programmes and access to safe drinking water, sanitation and hygiene in project communities. Our planned water initiative will prioritise community needs and assess appropriate, maintainable solutions.",
+    "p_3": "Where mining affects rivers and freshwater sources, access to safe water becomes an urgent community concern. We aim to raise funds for locally appropriate water provision, subject to assessment, partners and funding.",
+    "p_4": "We plan to raise funds through half-marathon participation, community sponsorship and a GoFundMe campaign. Every campaign should clearly identify the project, fundraising target, delivery partners and how funds will be reported before donations are collected.",
+    "p_5": "Join or sponsor fundraising runs in support of safe drinking water provision.",
+    "p_6": "Our official campaign link will appear here once the fundraiser is launched and verified.",
+    "p_7": "We welcome conversations with water engineers, local organisations, sponsors and volunteers.",
+    "p_8": "Donation payments are not active in this prototype. We will publish a verified campaign link and transparent project information before inviting online donations."
+  },
+  "enterprise": {
+    "h1_1": "Enterprise that helps farming thrive.",
+    "h2_1": "A practical route to financial resilience.",
+    "h2_2": "Partnerships built on transparency.",
+    "h3_1": "Commercial partnerships",
+    "h3_2": "Support for agriculture",
+    "h3_3": "Clear governance",
+    "p_1": "Exploring responsible commercial activities that can generate income and strengthen long-term agricultural investment.",
+    "p_2": "Alongside farming and community relief, VFRIFAL proposes a separate business-by-shares arm to pursue varied income-generating activities. Its intended role is to create sustainable income that can support farming and related initiatives.",
+    "p_3": "Potential opportunities will be evaluated on commercial viability, local benefit, governance and environmental responsibility. Specific business activities and investment offerings will be published only once formally approved.",
+    "p_4": "Explore ethical business opportunities aligned with sustainable growth.",
+    "p_5": "Develop sustainable financing pathways for equipment, farming inputs and operations.",
+    "p_6": "Maintain clear separation between charitable fundraising and commercial activities, with appropriate records and reporting.",
+    "p_7": "Corporate clarification: the uploaded UK memorandum describes VFRIFA Limited as a company limited by guarantee without share capital. The proposed company-by-shares arm must be separately documented before its legal status or investment opportunities are advertised."
+  },
+  "gallery": {
+    "h1_1": "Our farming photo & video journal.",
+    "h2_1": "Field gallery",
+    "h2_2": "Preview a new field update",
+    "p_1": "A dedicated space for project photographs, field updates, harvest stories and video clips from our communities.",
+    "p_2": "Approved photographs and video updates will be published here as they become available.",
+    "p_3": "Use this prototype to preview media entries in your own browser. This is not a public publishing system: entries are saved only in your browser, and visitors on other devices will not see them. To publish shared updates, connect a CMS or cloud storage service."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "updates": [
+    {
+      "title": "Land preparation for rice cultivation",
+      "date": "",
+      "type": "photo",
+      "image": "/assets/field-1.jpg",
+      "caption": "Photograph of prepared farmland supplied by the VFRIFAL team. Exact location and date to be confirmed."
+    },
+    {
+      "title": "A view across the farming area",
+      "date": "",
+      "type": "photo",
+      "image": "/assets/field-2.jpg",
+      "caption": "Field preparation and crop residues on the farming site. Exact location and date to be confirmed."
+    }
+  ]
+}
